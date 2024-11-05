@@ -1,0 +1,12 @@
+Esto es un ejemplo del uso de Git
+
+Estados de un fichero:
+- untracked (nuevo)
+- modified (con cambios no guardados)
+- committed (al día)
+
+Areas de un repositorio
+
+- workarea
+- stage / index area
+- repositorio
